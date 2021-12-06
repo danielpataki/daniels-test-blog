@@ -15,9 +15,6 @@
  */
 
 get_header();
-echo "This is the path";
-echo ABSPATH;
-
 ?>
 
 	<div id="primary" class="content-area">
