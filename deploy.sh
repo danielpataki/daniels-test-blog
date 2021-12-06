@@ -12,4 +12,4 @@ echo "Get S3 Offload plugin"
 git clone https://github.com/deliciousbrains/wp-amazon-s3-and-cloudfront.git ./public/wp-content/plugins/amazon-s3-and-cloudfront
 
 echo "Creating GCP Service Key"
-echo $GCP_SERVICE_KEY > gcp-service-key.json
+echo $GCP_SERVICE_KEY > ./gcp-service-key.json
