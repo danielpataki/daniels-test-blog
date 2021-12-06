@@ -6,4 +6,4 @@ echo "Creating Config"
 cp config.php ./public/wp-config.php
 
 echo "Add Theme"
-cp blog-theme ./public/wp-content/themes/blog-theme
+cp -r blog-theme ./public/wp-content/themes/blog-theme
