@@ -1,0 +1,9 @@
+{
+    "name": "danielpataki/daniels-test-blog",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Daniel Pataki",
+        }
+    ]
+}
