@@ -1,4 +1,3 @@
-curl -O https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar
-chmod +x wp-cli.phar
-mv wp-cli.phar wp
-wp core download
+git clone https://github.com/WordPress/WordPress.git .
+rm wp-config.php
+mv config.php wp-config.php
